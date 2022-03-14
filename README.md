@@ -33,4 +33,39 @@ Refresh web browser dan kita akan menemukan beberapa perbedaan pada tampilan par
 
 3. Menambahkan Judul Tag Judul pada HTML memiliki 6 level yaitu mulai h1 sampai h6. Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum paragraf kedua
 
+![Img 9](https://user-images.githubusercontent.com/73052649/158126643-2f8b2b4a-8dce-4f54-95a6-859fa0cccaa9.png)
+
+Refresh web kemudian amati perubahannya
+
+![Img 10](https://user-images.githubusercontent.com/73052649/158126680-09d5747b-1f8a-4e7d-b1ad-f647a3544c76.png)
+
+4. Memformat Teks Untuk membuat format teks pada HTML kita dapat meggunakan tag tag sebagai berikut :
+
+Kemudian cobalah menggunakan beberapa format tag dan amati hasil perubahannya pada web browser
+
+![Img 11](https://user-images.githubusercontent.com/73052649/158126788-dd7ebab3-ad35-4979-b2d4-5dfc49cdbbc2.png)
+
+![Img 12](https://user-images.githubusercontent.com/73052649/158126834-05acf65d-461c-4e73-828a-ae1f7b6481bc.png)
+
+![Img 13](https://user-images.githubusercontent.com/73052649/158127828-b52b6ef1-2351-42b7-8b44-0f096bf376cd.png)
+
+![Img 14](https://user-images.githubusercontent.com/73052649/158127854-329e4e2b-09cb-4d46-ae24-5d482f020637.png)
+
+5. Menyisipkan Gambar Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan gambar dari website external. Tambahkan tag sebagai berikut
+
+![Img 15](https://user-images.githubusercontent.com/73052649/158127882-7ddfd48f-5e2b-4f57-8a1a-c94ffe83bf77.png)
+
+Simpan perubahannya kemudian refresh Web
+
+![Img 16](https://user-images.githubusercontent.com/73052649/158127986-d26ee932-3f09-42d4-8faf-cc7cd876e4c5.png)
+
+6. Menambahkan Hyperlink dan buat satu file lagi dengan nama lab1_halaman2.html kemudian isi lah dokumen dengan tag html dasar dengan isi bebas. 
+
+![Img 17](https://user-images.githubusercontent.com/73052649/158129285-fcb94ff8-3a9e-4a8d-b703-e272fb0d8719.png)
+
+Simpan perubahannya kemudian refresh Web
+
+![Img 18](https://user-images.githubusercontent.com/73052649/158129306-65e0bee2-4ad0-4a0e-ac56-31eb9d8849be.png)
+
+
 
