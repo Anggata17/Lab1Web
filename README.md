@@ -61,7 +61,7 @@ Simpan perubahannya kemudian refresh Web
 
 6. Menambahkan Hyperlink dan buat satu file lagi dengan nama lab1_halaman2.html kemudian isi lah dokumen dengan tag html dasar dengan isi bebas. 
 
-![Img 17](https://user-images.githubusercontent.com/73052649/158129592-8e789a7d-85f0-474c-b228-5b3889f5f826.png)
+![Img 17](https://user-images.githubusercontent.com/73052649/158129809-4b238755-f0d3-457b-882c-34b957ac172b.png)
 
 Simpan perubahannya kemudian refresh Web
 
